@@ -1,9 +1,8 @@
 # Hugo Links Shortcode
 
-A simple, clean shortcode to display a collection of important links in your Hugo blog posts.
+A simple, clean shortcode to display a collection of important links in your Hugo blog posts. [Live DEMO](https://blog.bitlager.de/de/posts/general/links/)
 
 ![Example screenshot](https://github.com/user-attachments/assets/5b3c3e6c-d5ff-4fdd-8d40-7e041c2879f1)
-
 
 ## Features
 - Clean, minimal design
