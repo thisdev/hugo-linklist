@@ -2,7 +2,8 @@
 
 A simple, clean shortcode to display a collection of important links in your Hugo blog posts.
 
-![Example screenshot](https://github.com/user-attachments/assets/dc6a0d7d-a976-454a-b3b6-6ff19f1cfa8a)
+![Example screenshot](https://github.com/user-attachments/assets/5b3c3e6c-d5ff-4fdd-8d40-7e041c2879f1)
+
 
 ## Features
 - Clean, minimal design
